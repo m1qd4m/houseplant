@@ -5,9 +5,10 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/houseplant-haven/",
   plugins: 
   [
     tailwindcss(),
     react()],
-    base:"houseplant",
+    
 })
