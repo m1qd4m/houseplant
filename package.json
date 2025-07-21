@@ -1,7 +1,7 @@
 {
   "name": "houseplant-haven",
   "homepage": "https://m1qd4m.github.io/m1qd4m/houseplant",
-  "description": "A simple web application for tracking houseplants.",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
